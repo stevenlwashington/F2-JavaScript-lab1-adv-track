@@ -13,4 +13,7 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 
 #### Resources and Collaborators
+http://blog.decayingcode.com/post/the-yoda-condition
+A Smarter Way to Learn Javascript by Mark Myers
+Javascript and jQuery by Jon Duckett
 
