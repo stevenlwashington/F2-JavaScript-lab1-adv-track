@@ -58,7 +58,7 @@ assert(1 === 2, 'this is an example of a failing assertion. 1 does not equal 2.'
 */
 
 assert("zebra" === "zebra", "zebras are the same so this assert will pass.");
-assert("zebra" === "monkey", "zebra is not equal to monkey so this assert will fail");
+assert("zebra" === "daddy gorilla", "zebra is not equal to monkey so this assert will fail");
 
 /* ========================================================================
 ----------------- Meerkats (20 points total)-------------------------------
